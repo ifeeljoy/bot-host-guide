@@ -30,8 +30,11 @@ Voyager: bot.py
 
 ```
 Pi Tracker & Cryptocurrency Tracker: discord.js dotenv axios
+
 Member of the Week: discord.py python-dotenv apscheduler
+
 Question of the Day: discord.py python-dotenv
+
 Voyager: discord.py python-dotenv aiosqlite yfinance
 ```
 
