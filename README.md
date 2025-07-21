@@ -3,7 +3,11 @@
 🔹 Head over to https://cybrancee.com/discord-bot-hosting and select **Starter.**
 It's more than enough to host the bot. 
 
-🔹 Select a server location and Discord bot language. For Pi Tracker and Cryptocurrency Tracker use NodeJS. For Member of the Week, Question of the Day, and Voyager, use Python. Then continue to payment.
+🔹 Select a server location and Discord bot language. Continue to place your order.
+```
+Pi Tracker and Cryptocurrency Tracker: NodeJS
+Member of the Week, Question of the Day, and Voyager: Python.
+```
 
 🔹 Once you've placed your order you will get a confirmation email and be asked to create a panel account. You can head to https://cybrancee.com/client/getting-started/how-to-host-a-discord-bot.php
 Continue reading this guide once you've reached step 8. 
