@@ -29,7 +29,7 @@ Question of the Day: main.py
 Voyager: bot.py
 ```
 
-🔹 Add dependencies. The dependencies can be found under `Installation` in `README.md` for each bot. You can paste the following in the "Dependencies" box for the corresponding bot.
+🔹 Add dependencies. The dependencies can be found under `Installation` in `README.md` for each bot. You can paste the dependencies in the "Dependencies" box for the corresponding bot.
 
 ```
 Pi Tracker & Cryptocurrency Tracker: discord.js dotenv axios
