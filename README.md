@@ -9,7 +9,7 @@ Pi Tracker and Cryptocurrency Tracker: NodeJS
 Member of the Week, Question of the Day, and Voyager: Python.
 ```
 
-🔹 Once you've placed your order you will get a confirmation email and be asked to create a panel account. You can head to https://cybrancee.com/client/getting-started/how-to-host-a-discord-bot.php and continue reading this guide once you've reached step 8. 
+🔹 Once you've placed your order you will get a confirmation email and be asked to create a panel account. Download the GitHub repository if you haven't already and unzip the folder. You can head to https://cybrancee.com/client/getting-started/how-to-host-a-discord-bot.php and continue reading this guide once you've reached step 8. 
 
 🔹 Your Docker image shouldn't need to be changed, as the most previous version is usually the default. The minimum requirement can be found under `Installation` in `README.md`
 ```
