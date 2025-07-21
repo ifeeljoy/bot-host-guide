@@ -9,21 +9,27 @@ It's more than enough to host the bot.
 Continue reading this guide once you've reached step 8. 
 
 🔹 Your Docker image shouldn't need to be changed, as the most previous version is usually the default. The minimum requirement can be found under `Installation` in `README.md`
-```Node.JS 16+
-Python 3.12+```
+```
+Node.JS 16+ 
+Python 3.12+
+```
 
 
 🔹 Enter the corresponding bot startup file
-```Pi Tracker & Cryptocurrency Tracker: index.js
+```
+Pi Tracker & Cryptocurrency Tracker: index.js
 Member of the Week: index.py
 Question of the Day: main.py
-Voyager: bot.py```
+Voyager: bot.py
+```
 
 🔹 Add dependencies. The dependencies can be found under `Installation` in `README.md` for each bot. You can paste the following in the "Dependencies" box for the corresponding bot.
 
-```Pi Tracker & Cryptocurrency Tracker: discord.js dotenv axios
+```
+Pi Tracker & Cryptocurrency Tracker: discord.js dotenv axios
 Member of the Week: discord.py python-dotenv apscheduler
 Question of the Day: discord.py python-dotenv
-Voyager: discord.py python-dotenv aiosqlite yfinance```
+Voyager: discord.py python-dotenv aiosqlite yfinance
+```
 
 🔹 Make sure you've configured `.env-example` and renamed it to `.env` then you can go to the Console page and start your bot.
