@@ -18,8 +18,11 @@ Python 3.12+
 🔹 Enter the corresponding bot startup file
 ```
 Pi Tracker & Cryptocurrency Tracker: index.js
+
 Member of the Week: index.py
+
 Question of the Day: main.py
+
 Voyager: bot.py
 ```
 
