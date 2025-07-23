@@ -4,6 +4,7 @@
 It's more than enough to host any of the bots. 
 
 🔹 Select a server location and Discord bot language. Continue to place your order.
+**Bot languages**
 ```
 Pi Tracker and Cryptocurrency Tracker: NodeJS
 Member of the Week, Question of the Day, and Voyager: Python.
