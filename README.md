@@ -8,7 +8,7 @@ It's more than enough to host any of the bots.
 **Bot languages**
 ```
 Pi Tracker and Cryptocurrency Tracker: NodeJS
-Member of the Week, Question of the Day, and Voyager: Python.
+Member of the Week, Question of the Day, and Voyager: Python
 ```
 
 🔹 Once you've placed your order you will get a confirmation email and be asked to create a panel account. Download the GitHub repository if you haven't already and unzip the folder. You can head to https://cybrancee.com/client/getting-started/how-to-host-a-discord-bot.php and continue reading this guide once you've reached step 8. 
@@ -37,7 +37,7 @@ Voyager: bot.py
 
 🔹 Add dependencies. 
 
-**Only copy and paste the text following the colon ":" For example, "discord.js dotenv axios" for Pi Tracker.
+**Only copy and paste the text following the colon ":" For example, "discord.js dotenv axios" for Pi Tracker.**
 ```
 Pi Tracker & Cryptocurrency Tracker: discord.js dotenv axios
 
