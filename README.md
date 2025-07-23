@@ -4,6 +4,7 @@
 It's more than enough to host any of the bots. 
 
 🔹 Select a server location and Discord bot language. Continue to place your order.
+
 **Bot languages**
 ```
 Pi Tracker and Cryptocurrency Tracker: NodeJS
@@ -12,7 +13,9 @@ Member of the Week, Question of the Day, and Voyager: Python.
 
 🔹 Once you've placed your order you will get a confirmation email and be asked to create a panel account. Download the GitHub repository if you haven't already and unzip the folder. You can head to https://cybrancee.com/client/getting-started/how-to-host-a-discord-bot.php and continue reading this guide once you've reached step 8. 
 
-🔹 Your Docker image shouldn't need to be changed, as the most previous version is usually the default. The minimum requirement can be found under `Installation` in `README.md`
+🔹 Your Docker image shouldn't need to be changed, as the most previous version is usually the default.
+
+**Minimun version requirements**
 ```
 Node.JS 16+ 
 Python 3.12+
@@ -20,6 +23,8 @@ Python 3.12+
 
 
 🔹 Enter the corresponding bot startup file
+
+**Bot startup files**
 ```
 Pi Tracker & Cryptocurrency Tracker: index.js
 
@@ -30,8 +35,9 @@ Question of the Day: main.py
 Voyager: bot.py
 ```
 
-🔹 Add dependencies. The dependencies can be found under `Installation` in `README.md` for each bot. You can paste the dependencies in the "Dependencies" box for the corresponding bot.
+🔹 Add dependencies. 
 
+**Only copy and paste the text following the colon ":" For example, "discord.js dotenv axios" for Pi Tracker.
 ```
 Pi Tracker & Cryptocurrency Tracker: discord.js dotenv axios
 
