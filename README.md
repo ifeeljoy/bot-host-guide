@@ -1,7 +1,7 @@
 # Cybrancee Hosting Guide (extremely cheap alterative to self hosting on your own device)
 
 🔹 Head over to https://cybrancee.com/discord-bot-hosting and select **Starter.**
-It's more than enough to host the bot. 
+It's more than enough to host any of the bots. 
 
 🔹 Select a server location and Discord bot language. Continue to place your order.
 ```
